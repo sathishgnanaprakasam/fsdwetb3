@@ -8,7 +8,7 @@
 - [x] Installing Fonts - Google Fonts - Poppins
 - [x] Flexbox
 - [x] Z-Index
-- [ ] Grid - Layout
+- [x] Grid - Layout
 - [x] Using multiple classes in CSS
 
 ## Notes
