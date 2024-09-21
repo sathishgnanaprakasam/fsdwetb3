@@ -12,9 +12,9 @@
 
 .box2 {
     background-color: lightgreen;
-    position: relative;
+    position: absolute;
+    top: 150px;
     left: 50px;
-    top: 50px;
 }
 
 .box3 {
