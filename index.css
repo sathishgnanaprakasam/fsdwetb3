@@ -53,3 +53,14 @@
     order: 3;
 }
 
+@media screen and (max-width: 991px){
+    .menu {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px){
+    #menuIcon {
+        display: none;
+    }
+}

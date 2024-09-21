@@ -3,7 +3,7 @@
 ## Doubts
 
 - [x] Positioing - Relative and Absolute
-- [ ] Media Queries
+- [x] Media Queries
 - [ ] Setting up the background with an image [https://trbook.netlify.app/](https://trbook.netlify.app/)
 - [x] Flexbox
 - [ ] Z-Index
