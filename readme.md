@@ -4,7 +4,8 @@
 
 - [x] Positioing - Relative and Absolute
 - [x] Media Queries
-- [ ] Setting up the background with an image [https://trbook.netlify.app/](https://trbook.netlify.app/)
+- [x] Setting up the background with an image [https://trbook.netlify.app/](https://trbook.netlify.app/)
+- [x] Installing Fonts - Google Fonts - Poppins
 - [x] Flexbox
 - [ ] Z-Index
 - [ ] Grid - Layout

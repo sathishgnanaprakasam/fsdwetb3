@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins';
 }
 
 .menu>li>a {
@@ -63,4 +64,11 @@
     #menuIcon {
         display: none;
     }
+}
+
+body {
+    background-image: url('./deer.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
 }
