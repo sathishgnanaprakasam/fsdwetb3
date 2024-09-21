@@ -1,74 +1,15 @@
-* {
-    margin: 0;
-    padding: 0;
-    font-family: 'Poppins';
+.image {
+    /* opacity: 0.5; */
+    display: block;
+    position: absolute;
+    z-index: 10;
 }
 
-.menu>li>a {
-    text-decoration: none;
-    color: white;
-}
-
-.menu>li{
-    list-style-type: none;
-    border: 0.5px solid lightgray;
-    padding: 10px 25px;
-    background-color: purple;
-}
-
-.header {
-    margin-top: 20px;
-}
-
-.menu {
-    display: flex;
-    /* flex-direction: column; */
-    flex-direction: row;
-    justify-content: center; /* center horizontally */
-    align-items: center; /* center vertically */
-    gap: 4px;
-}
-
-.home {
-    flex-grow: 2;
-    order: 4;
-}
-
-.about {
-    flex-grow: 1;
-    order: 1;
-}
-
-.contact {
-    flex-grow: 1;
-    order: 2;
-}
-
-.services {
-    flex-grow: 1;
-    order: 5;
-}
-
-.feedback {
-    flex-grow: 1;
-    order: 3;
-}
-
-@media screen and (max-width: 991px){
-    .menu {
-        display: none;
-    }
-}
-
-@media screen and (min-width: 992px){
-    #menuIcon {
-        display: none;
-    }
-}
-
-body {
-    background-image: url('./deer.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    /* background-position: center; */
+.desc {
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    font-size: 24px;
+    color: purple;
+    z-index: 20;
 }

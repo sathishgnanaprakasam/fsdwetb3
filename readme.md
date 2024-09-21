@@ -7,9 +7,9 @@
 - [x] Setting up the background with an image [https://trbook.netlify.app/](https://trbook.netlify.app/)
 - [x] Installing Fonts - Google Fonts - Poppins
 - [x] Flexbox
-- [ ] Z-Index
+- [x] Z-Index
 - [ ] Grid - Layout
-- [ ] Using multiple classes in CSS
+- [x] Using multiple classes in CSS
 
 ## Notes
 
@@ -30,3 +30,8 @@ Example:
 992px is the breakpoint for a medium-sized device. For >= medium-sized devices, the navigation bar should be displayed as a flexbox.
 
 For 991px and below, the navigation bar will be hidden and a hamburger icon will be displayed.
+
+### z-index
+
+- The z-index property specifies the stack order of an element.
+- An element with a higher z-index will be displayed in front of an element with a lower z-index.
