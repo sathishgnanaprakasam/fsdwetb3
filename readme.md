@@ -42,11 +42,11 @@ For 991px and below, the navigation bar will be hidden and a hamburger icon will
 
 - [x] Setup
 - [x] Typography
-- [ ] Borders
-- [ ] Customization
-- [ ] Colors
-- [ ] spaces & sizes
-- [ ] Images
+- [x] Borders
+- [x] Customization
+- [x] Colors
+- [x] spaces & sizes
+- [x] Images
 
 ## Notes
 
